@@ -549,6 +549,10 @@ font-weight: var(--font-medium);
     width: 85%;
 }
 
+.skills__jira{
+    width: 55%;
+}
+
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
