@@ -506,15 +506,15 @@ font-weight: var(--font-medium);
 }
 
 .skills__html{
-    width: 90%;
-}
-
-.skills__css{
     width: 80%;
 }
 
-.skills__js{
+.skills__css{
     width: 60%;
+}
+
+.skills__js{
+    width: 50%;
 }
 
 .skills__react{
@@ -534,7 +534,7 @@ font-weight: var(--font-medium);
 }
 
 .skills__python{
-    width: 55%;
+    width: 60%;
 }
 
 .skills__figma{
